@@ -574,3 +574,8 @@ s in Computer Science
 - Place: Bogotá, Colombia
 - Bio: Web Developer
 - GitHub: [jose4125](https://github.com/jose4125)
+
+#### Name: [Mudit Saxena](https://github.com/mudit9)
+- Place: India
+- Bio: Computer Science Major
+- GitHub: [mudit9](https://github.com/mudit9)
